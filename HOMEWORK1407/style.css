@@ -1,0 +1,15 @@
+table{
+    border: solid 2px black;
+    
+}
+table tr td{
+    border: solid 1px black;
+}
+table thead {
+    text-align: center;
+    font-weight: bold;
+}
+.student{
+    text-align: center;
+  
+}
